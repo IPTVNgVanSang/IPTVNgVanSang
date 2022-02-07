@@ -102,7 +102,7 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab20|Referer=http://
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/35.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc2_Vhls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc2_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/36.png" catchup="append" catchup-days="2" catchup-source="http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=dvr&kenh=vtc3-hd&time=${start}&offset=${offset}", VTC3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/manifest.mpd
