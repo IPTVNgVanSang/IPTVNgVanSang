@@ -102,7 +102,7 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=vtvcab20|Referer=http://
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/35.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc2_Vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/36.png" catchup="append" catchup-days="2" catchup-source="http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=dvr&kenh=vtc3-hd&time=${start}&offset=${offset}", VTC3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/manifest.mpd
@@ -113,23 +113,23 @@ https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/manifest.mpd
 http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vtc5-hd
 #EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/39.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc6_hls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc6_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/40.png" catchup="append" catchup-days="2" catchup-source="http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=dvr&kenh=vtc7-todaytv-hd&time=${start}&offset=${offset}", VTC7 HD - TodayTV
 http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vtc7-todaytv-hd
 #EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/41.png" catchup="append" catchup-days="2" catchup-source="http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=dvr&kenh=vtc8&time=${start}&offset=${offset}", VTC8
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc8_hls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc8_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/42.png" catchup="append" catchup-days="2" catchup-source="http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=dvr&kenh=vtc9-hd&time=${start}&offset=${offset}", VTC9 HD
 http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=vtc9-hd
 #EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/43.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc10_hls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc10_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc11_hls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc11_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/45.png", VTC12 - VTC K
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc12_hls.smil/manifest.mpd
+https://livecdn.fptplay.net/sdb/vtc12_vhls.smil/manifest.mpd
 #EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/46.png", VTC13 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/manifest.mpd
